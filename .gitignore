@@ -43,8 +43,6 @@ android/app/src/main/assets/index.android.bundle
 node_modules/
 npm-debug.log
 yarn-error.log
-.env
-.env.*
 
 # BUCK
 buck-out/
@@ -100,3 +98,4 @@ navigator.config.js
 .tamagui
 vendor
 *.pxd
+config.bat
